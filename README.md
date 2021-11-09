@@ -1,4 +1,4 @@
-# Dtmoney 
+# CORTEI
 <h4>
 O sistema consiste em cadastrar transações com seus ganhos e gastos, afim de visualizar o saldo total. 
 </h4>
@@ -12,11 +12,10 @@ O sistema consiste em cadastrar transações com seus ganhos e gastos, afim de v
   <li>Hooks</li>
 </ul>
 
-<h5>O deploy da aplicação foi feito com o #Netlify, segue o link: <a href="https://moneydt.netlify.app/">Dtmoney</a></p> </h5>
+<h5>O deploy da aplicação foi feito com o #Heroku, segue o link: <a href="">Cortei</a></p> </h5>
 
 
 <link>
 <p align="center">
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/dtmoney.gif"/>
 
 
