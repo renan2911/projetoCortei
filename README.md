@@ -13,9 +13,10 @@ O sistema consiste em cadastrar transações com seus ganhos e gastos, afim de v
 </ul>
 
 <h5>O deploy da aplicação foi feito com o #Netlify, segue o link: <a href="https://epic-kilby-11e3e3.netlify.app">Cortei</a></p> </h5>
-
+<h5>Trabalho da faculdade =)<h5>
 
 <link>
 <p align="center">
+
 
 
