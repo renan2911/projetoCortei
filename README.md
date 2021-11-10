@@ -12,7 +12,7 @@ O sistema consiste em cadastrar transações com seus ganhos e gastos, afim de v
   <li>Hooks</li>
 </ul>
 
-<h5>O deploy da aplicação foi feito com o #Heroku, segue o link: <a href="">Cortei</a></p> </h5>
+<h5>O deploy da aplicação foi feito com o #Netlify, segue o link: <a href="https://epic-kilby-11e3e3.netlify.app">Cortei</a></p> </h5>
 
 
 <link>
